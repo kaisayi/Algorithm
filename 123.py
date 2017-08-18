@@ -2,6 +2,9 @@
 # -*-encoding:utf-8-*-
 
 def functio():
-	print('hello world!')
-exit
+	print('hello world!)'
+        izzzzzzr
+
+
+
 
