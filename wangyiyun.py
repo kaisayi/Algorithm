@@ -89,5 +89,6 @@ class Handler(BaseHandler):
         return {
             'url': response.url,
             'song_name': doc('em.f-ff2').text(),
+            'singer': doc
 
         }
