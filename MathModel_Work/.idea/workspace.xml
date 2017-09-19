@@ -24,8 +24,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2790">
-              <caret line="90" column="71" lean-forward="false" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="71" />
+            <state relative-caret-position="558">
+              <caret line="93" column="26" lean-forward="false" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
               <folding>
                 <element signature="e#88#99#0" expanded="true" />
               </folding>
@@ -145,7 +145,6 @@
       <list>
         <option value="$PROJECT_DIR$/11.py" />
         <option value="$USER_HOME$/workspace/express/spider/src/beichu_hr.py" />
-        <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/Flight_path.py" />
         <option value="$PROJECT_DIR$/Qus2.py" />
         <option value="$PROJECT_DIR$/MST.py" />
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/Clulstering by Distance.py" />
         <option value="$PROJECT_DIR$/Clulstering_by_Distance.py" />
         <option value="$PROJECT_DIR$/TSP_by_generation.py" />
+        <option value="$PROJECT_DIR$/models.py" />
       </list>
     </option>
   </component>
@@ -339,8 +339,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="357" y="55" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13045882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13045882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -843,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2790">
-          <caret line="90" column="71" lean-forward="false" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="71" />
+        <state relative-caret-position="558">
+          <caret line="93" column="26" lean-forward="false" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
           <folding>
             <element signature="e#88#99#0" expanded="true" />
           </folding>

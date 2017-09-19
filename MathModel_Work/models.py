@@ -91,7 +91,7 @@ class Node:
         return math.sqrt((self.x - other.x)**2 + (self.y - other.y)**2)
 
     def __str__(self):
-        return 'Node{} area{}'.format(self.name, self.area)
+        return 'Node{} delay{}'.format(self.name, self.delay)
 
     def Visit(self):
         self.hasVisit = True
